@@ -208,4 +208,4 @@ This repository serves as the official landing page for MyPaint. The software is
 **Get the most recent version of MyPaint today!**
 
 ---
-**Last updated:** 2026-11-13 09:04:37 UTC
+**Last updated:** 2026-11-13 17:29:47 UTC
